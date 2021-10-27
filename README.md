@@ -11,7 +11,7 @@ p/s2: contact mình qua:
 
 fb: https://www.facebook.com/huyinit13
 
-Danh sách phát youtube bài giảng : https://www.youtube.com/playlist?list=PLDYXQL9eThN4fvrP8J0ASHnxSKJFtkU-Q
+Danh sách phát youtube bài giảng : https://www.youtube.com/watch?v=0v7FGPDWjR4&list=PLDYXQL9eThN7o1fsQIEn40eTiJCZTFVoc
 
 youtube vlog :
 https://www.youtube.com/watch?v=0v7FGPDWjR4&list=PLDYXQL9eThN7o1fsQIEn40eTiJCZTFVoc
