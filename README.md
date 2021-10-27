@@ -14,7 +14,7 @@ fb: https://www.facebook.com/huyinit13
 Danh sách phát youtube bài giảng : https://www.youtube.com/watch?v=0v7FGPDWjR4&list=PLDYXQL9eThN7o1fsQIEn40eTiJCZTFVoc
 
 youtube vlog :
-https://www.youtube.com/watch?v=0v7FGPDWjR4&list=PLDYXQL9eThN7o1fsQIEn40eTiJCZTFVoc
+https://www.youtube.com/channel/UCskOQJ8MIQXTAQ_jGryJNcQ
 
 **1;** (asembly) Hiển thị lời chào Tiếng Anh và Tiếng Việt trên emu8086	8
 **2:** (asembly) Nhập 1 ký tự và xuất ra màn hình trên emu8086	9
